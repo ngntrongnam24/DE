@@ -1,0 +1,6 @@
+
+MinIO http://localhost:9001/
+Spark http://localhost:8080/
+Airflow http://localhost:8083/
+Trino http://localhost:8082/
+Superset
